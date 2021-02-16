@@ -1,7 +1,7 @@
 ## Matheus Kruger 🐐
 
 ### About ℹ
-- 🔭 Currently working at <a target="_blank" href="http://www.datapar.com.br/home/">Datapar</a>
+- 🔭 Currently working at <a target="_blank" href="https://ciandt.com/br/pt-br">CI&T</a>
 - 🏠 Living in Itu, SP - Brazil 🇧🇷
 - 🖥 Web developer for 4 or 5 years, who knows.
 
