@@ -42,6 +42,12 @@
 </br>
 
 <p align="center">
+  <a href="https://github.com/mathkruger">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathkruger&theme=dracula" alt="stats" />
+  </a>
+</p>
+
+<p align="center">
    <a href="https://github.com/mathkruger?tab=repositories">
     <img
       align="center"
