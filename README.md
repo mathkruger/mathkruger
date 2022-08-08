@@ -1,27 +1,36 @@
-## Let's Rock! 😎
+## Matheus Kruger
 
 <img align="right" alt="GIF" src="./code.svg" width="350" height="280" />
 
-### About ℹ  
+### ℹ About  
 
 - 🔭 Currently working at <a target="_blank" href="https://ciandt.com/br/pt-br">CI&T</a>  
 - 🏠 Living in Itu, SP - Brazil 🇧🇷  
 - 🖥 Web developer for 4 or 5 years, who knows.
+- Me 🤝 Javascript
 
-### Social Networks 🌐:
+### 📞 Contact
+- 📱 +55 (11) 95947-2884
+- 📧 <a href="mailto:ms-kruger@hotmail.com">ms-kruger@hotmail.com</a>
+
+### 🌐 Social
 
 
   <a href="https://www.linkedin.com/in/mathkruger/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
+  <a href="https://twitter.com/_mathkruger" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-3b72e6?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
   <a href="https://www.facebook.com/mathkruger/" alt="Facebook">
     <img src="https://img.shields.io/badge/Facebook-3b72e6?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
+  
 </br>
 
-### Tech Skills ✨:
+### ✨ Tech Skills
 
 </br>
 
@@ -40,6 +49,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 </br>
+
+### 👨‍💻 Statistics
 
 <p align="center">
   <a href="https://github.com/mathkruger">
@@ -64,6 +75,3 @@
     />
   </a>
 </p>
-
-### Contact 📞
-- 📱 +55 (11) 95947-2884
