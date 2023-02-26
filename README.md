@@ -10,7 +10,6 @@
 - Me 🤝 Javascript
 
 ### 📞 Contact
-- 📱 +55 (11) 95947-2884
 - 📧 <a href="mailto:ms-kruger@hotmail.com">ms-kruger@hotmail.com</a>
 
 ### 🌐 Social
