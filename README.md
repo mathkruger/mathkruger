@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/mathkruger?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=mathkruger&theme=dracula&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=mathkruger&theme=dracula&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   </a>
 </p>
 
