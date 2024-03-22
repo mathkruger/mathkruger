@@ -7,7 +7,7 @@
 - 🔭 Currently working at <a target="_blank" href="https://ciandt.com/br/pt-br">CI&T</a>  
 - 🏠 Living in Itu, SP - Brazil 🇧🇷  
 - 🖥 Fullstack Web developer for 6 years.
-- Me 🤝 Javascript
+- Me 🤝 Typescript
 
 ### 📞 Contact
 - 📧 <a href="mailto:ms-kruger@hotmail.com">ms-kruger@hotmail.com</a>
