@@ -1,6 +1,6 @@
 ## Matheus Kruger
 
-<img align="right" alt="GIF" src="./code.svg" width="350" height="280" />
+<img align="right" alt="Developer doing their stuff" src="./code.svg" width="350" height="280" />
 
 ### ℹ About  
 
