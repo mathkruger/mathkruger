@@ -5,22 +5,14 @@
 ### ℹ About  
 
 - 🔭 Currently working at <a target="_blank" href="https://ciandt.com/br/pt-br">CI&T</a>  
-- 🏠 Living in Itu, SP - Brazil 🇧🇷  
-- 🖥 Fullstack Web developer for 6 years.
+- 🖥 Fullstack Web developer for 8 years.
 - Me 🤝 Typescript
-
-### 📞 Contact
-- 📧 <a href="mailto:ms-kruger@hotmail.com">ms-kruger@hotmail.com</a>
 
 ### 🌐 Social
 
 
   <a href="https://www.linkedin.com/in/mathkruger/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://twitter.com/_mathkruger" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-3b72e6?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   
 </br>
