@@ -4,8 +4,7 @@
 
 ### ℹ About  
 
-- 🔭 Currently working at <a target="_blank" href="https://ciandt.com/br/pt-br">CI&T</a>  
-- 🖥 Fullstack Web developer for 8 years.
+- 🖥 Fullstack Web developer for 10 years.
 - Me 🤝 Typescript
 
 ### 🌐 Social
